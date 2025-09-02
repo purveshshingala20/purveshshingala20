@@ -7,7 +7,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/purvesh-shingala-a11abb285/) [![Gmail](https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white)](mailto:purveshhsingala96@gmail.com)  
 
 ## 📍 Resume & Portfolio
-- 📄 *My Resume:* [*Click to Download (PDF)*](https://drive.google.com/file/d/1BNh-WypYxP2JI8puxUOAB3GVC0J9WZN-/view?usp=drivesdk)  
+- 📄 *My Resume:* [*Click to Download (PDF)*]([https://drive.google.com/file/d/1BNh-WypYxP2JI8puxUOAB3GVC0J9WZN-/view?usp=drivesdk](https://drive.google.com/drive/u/0/folders/1pSTXDvMaSTFgB75n-tBlgXlCQvJX6JL8))  
 
 # 🛠 Skills  
 
