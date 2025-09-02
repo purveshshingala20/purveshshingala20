@@ -43,15 +43,7 @@
   
 ![](https://nirzak-streak-stats.vercel.app/?user=purveshshingala20&theme=radical&hide_border=false)
 
-<div >
-  
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/purveshshingala20/purveshshingala20/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/purveshshingala20/purveshshingala20/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/purveshshingala20/purveshshingala20/output/github-contribution-grid-snake.svg">
-</picture>
 
-</div>
 
 ### ✍ Dev Quote  
 
