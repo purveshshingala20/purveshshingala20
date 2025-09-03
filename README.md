@@ -32,11 +32,12 @@
 
 ## 📊 GitHub Analytics:  
 
-<div >
+<div>
 
 <!-- Profile Stats -->
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=purveshshingala20&theme=radical&hide_border=false&include_all_commits=true&count_private=false"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=purveshshingala20&theme=radical&hide_border=false&layout=compact&langs_count=10&hide_progress=false&hide=jupyter%20notebook&size_weight=0.5&count_weight=0.5"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=purveshshingala20&theme=radical&hide_border=false&layout=compact&langs_count=10&hide_progress=false"/>
+
 
 </div>
 
@@ -45,12 +46,16 @@
 <!-- Contribution Streak -->
 ![](https://nirzak-streak-stats.vercel.app/?user=purveshshingala20&theme=radical&hide_border=false)
 
-<!-- Repo Specific Badges -->
-![Repo Size](https://img.shields.io/github/repo-size/purveshshingala20/Hostel-Management-System?color=FF6B35&style=for-the-badge)
-![Code Frequency](https://img.shields.io/github/commit-activity/m/purveshshingala20/Hostel-Management-System?color=FF6B35&style=for-the-badge)
-![Last Commit](https://img.shields.io/github/last-commit/purveshshingala20/Hostel-Management-System?color=FF6B35&style=for-the-badge)
-![Issues](https://img.shields.io/github/issues/purveshshingala20/Hostel-Management-System?color=FF6B35&style=for-the-badge)
-![Stars](https://img.shields.io/github/stars/purveshshingala20/Hostel-Management-System?color=FF6B35&style=for-the-badge)
+</div>
+
+<div>
+
+<!-- GitHub Contribution Snake -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/purveshshingala20/purveshshingala20/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/purveshshingala20/purveshshingala20/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/purveshshingala20/purveshshingala20/output/github-contribution-grid-snake.svg">
+</picture>
 
 </div>
 
